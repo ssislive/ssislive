@@ -1,14 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>DSA practice to strengthen problem-solving and logical thinking skills<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms in C and Java, along with exploring new technologies<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects and tech events<br><br>🤔 I’m looking for help with<br>Project ideas, placement preparation, and improving DSA logic<br><br>💬 Ask me about<br>Programming languages and college tech life<br><br>📫 How to reach me:<br><br>LinkedIn: https://www.linkedin.com/in/sujal-srivastava-627888385/<br><br>GitHub: https://github.com/ssislive<br><br>Email: sujal.srivastava29@gmail.com<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact:<br>I love playing table tennis 🏓 and volleyball 🏐, and I enjoy solving coding problems in my free time
+🔭 I'm currently working on → Building Eventora, a full-stack event management web application using React, TypeScript & Tailwind CSS<br>👥 I'm looking to collaborate on → Open-source web development projects and innovative frontend/full-stack applications<br>🌱 I'm looking for help with → Deepening my understanding of backend development with Node.js & Express.js<br>📚 I'm currently learning → Node.js, Express.js, and REST API development to expand into full-stack development<br>💬 Ask me about → Web Development, Data Structures & Algorithms, Python, JavaScript, and React<br>⚡ Fun fact → As a 2nd year CSE student at DIT University, I've already built 5+ projects ranging from IoT-based systems to full-stack web apps!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujal-srivastava-627888385/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujal.srivastava29@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ssislive_0001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujalsri29/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujal.srivastava29@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ssislive&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ssislive&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ssislive&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ssislive&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ssislive&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

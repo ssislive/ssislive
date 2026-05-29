@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I'm currently working on → Building Eventora, a full-stack event management web application using React, TypeScript & Tailwind CSS<br>👥 I'm looking to collaborate on → Open-source web development projects and innovative frontend/full-stack applications<br>🌱 I'm looking for help with → Deepening my understanding of backend development with Node.js & Express.js<br>📚 I'm currently learning → Node.js, Express.js, and REST API development to expand into full-stack development<br>💬 Ask me about → Web Development, Data Structures & Algorithms, Python, JavaScript, and React<br>⚡ Fun fact → As a 2nd year CSE student at DIT University, I've already built 5+ projects ranging from IoT-based systems to full-stack web apps!
+🔭 I'm currently working on → Building Eventora, a full-stack event management web application using React, TypeScript & Tailwind CSS<br>
+
+👥 I'm looking to collaborate on → Open-source web development projects and innovative frontend/full-stack applications<br>
+
+🌱 I'm looking for help with → Deepening my understanding of backend development with Node.js & Express.js<br>
+
+📚 I'm currently learning → Node.js, Express.js, and REST API development to expand into full-stack development<br>
+
+💬 Ask me about → Web Development, Data Structures & Algorithms, Python, JavaScript, and React<br>
+
+⚡ Fun fact → As a 2nd year CSE student at DIT University, I've already built 5+ projects ranging from IoT-based systems to full-stack web apps!
 
 
 ## 🌐 Socials:
